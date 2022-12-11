@@ -1,4 +1,4 @@
-name: Build all variants of docker images
+name: Build alpine/ubuntu docker images
 on:
   push: {}
 
